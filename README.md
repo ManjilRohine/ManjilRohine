@@ -199,7 +199,7 @@ Machine Learning-based fraud detection application capable of identifying fraudu
 
 <p align="center">
 
-<i>"Code. Learn. Build. Innovate. 🚀"</i>
+<i>                                                                         "Code. Learn. Build. Innovate.                                  🚀"</i>
 
 </p>
 
