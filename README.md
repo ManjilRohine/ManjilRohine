@@ -197,14 +197,22 @@ Machine Learning-based fraud detection application capable of identifying fraudu
 
 ---
 
+---
+
 <p align="center">
-
-<i>                                                                         "Code. Learn. Build. Innovate.                                  🚀"</i>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Innovate.+🚀" />
 </p>
 
 <p align="center">
+  <b><i>✨ Turning Ideas into Intelligent Solutions ✨</i></b>
+</p>
 
-⭐ Thanks for visiting my profile ⭐
+<br>
 
+<h3 align="center">
+⭐ Thanks for Visiting My Profile! ⭐
+</h3>
+
+<p align="center">
+If you like my work, don't forget to ⭐ my repositories and connect with me.
 </p>
